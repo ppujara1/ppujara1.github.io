@@ -1,1 +1,30 @@
-theme: jekyll-theme-cayman
+title: Foreign Flavors
+# tagline:
+description: A blog about cooking probably
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+locale: "en-US"
+url: "https://www.foreignflavors.net"
+skin: "/assets/css/skins/light.css"
+
+search_full_content: true
+
+plugins:
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Site Author
+author:
+  name: "Pujara"
+
+# Footer Links
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+
+feed:
+  path: atom.xml
+
+# webmaster_verifications:
