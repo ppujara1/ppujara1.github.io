@@ -1,6 +1,6 @@
 title: Foreign Flavors
 # tagline:
-description: A blog about cooking probably
+description: A blog about cooking, probably
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: "en-US"
 url: "https://www.foreignflavors.net"
@@ -16,7 +16,7 @@ plugins:
 
 # Site Author
 author:
-  name: "Pujara"
+  name: "P. Pujara"
 
 # Footer Links
 footer_links:
@@ -26,5 +26,7 @@ footer_links:
 
 feed:
   path: atom.xml
+  
+permalink: /:title.html  
 
 # webmaster_verifications:
