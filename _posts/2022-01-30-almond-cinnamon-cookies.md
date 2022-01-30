@@ -8,6 +8,12 @@ image:
 categories:
   - Desserts
 
+cuisines:
+  - American
+
+diets:
+  - Gluten Free
+
 tags:
   - Almond
   - Cinnamon
@@ -59,12 +65,6 @@ The texture and shape of these cookies can vary wildly based on the coarseness o
 Feel free to experiment with the flavors in the cookies. Cardamom or more vanilla in place of cinnamon could be heavenly. My approach to figure out the right amount is to mix in the spice or herb with all of the flour called for in a given recipe and smell the flour (safely). If it smells sufficiently like the spice or herb, then I know the finished product will also taste like it. 
 
 These cookies will keep for at least a week if stored in an air-tight container. The chewiness will vary day by day, but like I said above, whether they are crispy or chewy, they still taste delicious.
-
-## Recipe tags
-
-**Cuisine:** <span itemprop ="recipeCuisine">American</span>
-
-**Diet type:** <link itemprop="suitableForDiet" href="https://schema.org/GlutenFreeDiet" />Gluten Free
 
 
 [1]: https://food52.com/recipes/78052-nik-sharma-s-spicy-chocolate-chip-hazelnut-cookies
