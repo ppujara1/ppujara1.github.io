@@ -20,8 +20,8 @@
   <ul class="page-taxonomies">
     {%- for cuisine in cuisines -%}
       <li class="page-taxonomy">
-        {%- if site.cuisine_archive_path -%}
-          <a href="{{ cuisine | slugify | prepend: site.cuisine_archive_path | relative_url }}" title="{{ site.data.text[site.locale].pages_cuisined | default: 'Pages cuisined' }} {{ cuisine }}" rel="cuisine">{{ cuisine }}</a>
+        {%- if site.tag_archive_path -%}
+          <a href="{{ cuisine | slugify | prepend: site.tag_archive_path | relative_url }}" title="{{ site.data.text[site.locale].pages_tagged | default: 'Pages tagged' }} {{ cuisine }}" rel="cuisine">{{ cuisine }}</a>
         {%- else -%}
           <span itemprop="recipeCuisine">{{ cuisine }}</span>
         {%- endif -%}
@@ -36,8 +36,8 @@
   <ul class="page-taxonomies">
     {%- for diet in diets -%}
       <li class="page-taxonomy">
-        {%- if site.diet_archive_path -%}
-          <a href="{{ diet | slugify | prepend: site.diet_archive_path | relative_url }}" title="{{ site.data.text[site.locale].pages_dieted | default: 'Pages dieted' }} {{ diet }}" rel="diet">{{ diet }}</a>
+        {%- if site.tag_archive_path -%}
+          <a href="{{ diet | slugify | prepend: site.tag_archive_path | relative_url }}" title="{{ site.data.text[site.locale].pages_tagged | default: 'Pages tagged' }} {{ diet }}" rel="diet">{{ diet }}</a>
         {%- else -%}
           {% if diet == "Vegan" %}
             <link itemprop="suitableForDiet" href="https://schema.org/VeganDiet" />
