@@ -19,7 +19,6 @@ last_modified_at: 2022-01-30T11:50:20-06:00
 ---
 
 <span itemprop="description">
-
 These cookies are my new preferred chocolate chip cookie, even though there isn't anything traditional about them. The all brown sugar dough creates a very chewy cookie with deep caramelization notes. It also has a whole tablespoon of cinnamon, which paired with the almonds, creates a dynamic and unique flavor profile. The cinnamon hits you first, but then the depth of the brown sugar and the toasted almonds comes through, with the chocolate and almond chunks to finish everything off. The splash of vanilla brings everything together to make the cookies familiar and comforting, despite the atypical combination. 
 </span>
 
