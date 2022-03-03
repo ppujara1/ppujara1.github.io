@@ -1,0 +1,54 @@
+{% if page.tags.size > 0 %}
+  <h3 class="page-taxonomies-title">{{ site.data.text[site.locale].tags | default: 'Tags' }}</h3>
+  {% assign tags = page.tags | sort %}
+  <ul class="page-taxonomies">
+    {%- for tag in tags -%}
+      <li class="page-taxonomy">
+        {%- if site.tag_archive_path -%}
+          <a href="{{ tag | slugify | prepend: site.tag_archive_path | relative_url }}" title="{{ site.data.text[site.locale].pages_tagged | default: 'Pages tagged' }} {{ tag }}" rel="tag">{{ tag }}</a>
+        {%- else -%}
+          {{ tag }}
+        {%- endif -%}
+      </li>
+    {%- endfor- %}
+  </ul>
+{% endif %}
+
+{% if page.cuisines.size > 0 %}
+  <h3 class="page-taxonomies-title">{{ site.data.text[site.locale].cuisines | default: 'Cuisines' }}</h3>
+  {% assign cuisines = page.cuisines | sort %}
+  <ul class="page-taxonomies">
+    {%- for cuisine in cuisines -%}
+      <li class="page-taxonomy">
+        {%- if site.tag_archive_path -%}
+          <a href="{{ cuisine | slugify | prepend: site.tag_archive_path | relative_url }}" title="{{ site.data.text[site.locale].pages_tagged | default: 'Pages tagged' }} {{ cuisine }}" rel="cuisine">{{ cuisine }}</a>
+        {%- else -%}
+          <span itemprop="recipeCuisine">{{ cuisine }}</span>
+        {%- endif -%}
+      </li>
+    {%- endfor- %}
+  </ul>
+{% endif %}
+
+{% if page.diets.size > 0 %}
+  <h3 class="page-taxonomies-title">{{ site.data.text[site.locale].diets | default: 'Diets' }}</h3>
+  {% assign diets = page.diets | sort %}
+  <ul class="page-taxonomies">
+    {%- for diet in diets -%}
+      <li class="page-taxonomy">
+        {%- if site.tag_archive_path -%}
+          <a href="{{ diet | slugify | prepend: site.tag_archive_path | relative_url }}" title="{{ site.data.text[site.locale].pages_tagged | default: 'Pages tagged' }} {{ diet }}" rel="diet">{{ diet }}</a>
+        {%- else -%}
+          {% if diet == "Vegan" %}
+            <link itemprop="suitableForDiet" href="https://schema.org/VeganDiet" />
+          {% elsif diet == "Vegetarian" %}
+            <link itemprop="suitableForDiet" href="https://schema.org/VegetarianDiet" />
+          {% elsif diet == "Gluten Free" %}
+            <link itemprop="suitableForDiet" href="https://schema.org/GlutenFreeDiet" />
+          {% endif %}
+          {{ diet }}
+        {%- endif -%}
+      </li>
+    {%- endfor- %}
+  </ul>
+{% endif %}
