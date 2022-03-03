@@ -24,8 +24,8 @@ tags:
 last_modified_at: 2022-03-02T11:50:20-06:00
 
 ---
-<span itemprop="description">
 
+<span itemprop="description">
 This peanut butter ice cream recipe is very simple, but make no mistake, it is packed with peanut flavor! If you don’t like peanuts and / or peanut butter, do *not* make this recipe. If you do happen to love peanut butter, or as in my case, live with someone who does, then this is a fantastic dessert to enjoy. The added fat from the peanut butter makes very rich and smooth, and the overnight infusion means this is as close to eating a spoon full of peanut butter you can get, without actually having a spoon full of peanut butter.
 </span>
 
