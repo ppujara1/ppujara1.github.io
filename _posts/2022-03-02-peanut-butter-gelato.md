@@ -1,5 +1,5 @@
 ---
-title: “Peanut Butter Gelato”
+title: "Peanut Butter Gelato"
 
 image: 
   path: /images/PeanutButterIceCream.jpg
