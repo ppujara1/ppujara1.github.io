@@ -27,7 +27,6 @@ last_modified_at: 2022-06-04T11:50:20-06:00
 ---
 
 <span itemprop="description">
-
 These crackers are simply addictive. They are crisp, they are cheesy, and they have depth. They taste like *real* cheese instead of some fake processed cheese flavor that many store bought crackers taste like. And best of all, they are a crowd pleaser that are sure to impress and come together in a few minutes in just one bowl. 
 </span>
 
