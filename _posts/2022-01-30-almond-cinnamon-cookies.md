@@ -2,7 +2,7 @@
 title: "Almond & Cinnamon Chocolate Chip Cookies"
 
 image: 
-  path: /images/AlmondCinnamonCookies3.jpeg
+  path: /images/NewAlmondCookiesHero.jpg
   caption: "Almond & Cinnamon Chocolate Chip Cookies"
 
 categories:
