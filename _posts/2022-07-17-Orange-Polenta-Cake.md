@@ -86,7 +86,7 @@ By adding the orange jam filling and orange vanilla buttercream frosting, the wh
 6. <span itemprop="recipeInstructions">Scoop ~2 cups of buttercream onto the cake and smooth over using the offset spatula. Create a thick layer of buttercream over the top (it's easier to remove than it is to add more). Add more buttercream to the top and spread it over, now pushing the buttercream over the edges and spreading it on the sides. Alternatively, you can apply the buttercream directly to the sides using your piping bag, if you're using, and smooth over using the offset spatula. A metal bench scraper can also be helpful here, especially for the sides of the cake. Check the top of the cake to make sure it's level before you continue smoothing over the buttercream. Keep in mind that less is more when fussing over the frosting. Continue until the whole cake is frosted to your liking.</span>
 7. <span itemprop="recipeInstructions">If you have any more frosting or orange zest remaining, you can use it to decorate the cake. This is when a piping bag is the most helpful so you can make a few mounds, pipe a message, or add some texture</span>
 
-/[![Orange Polenta Cake](images/OrangePolentaCakeSliced.png)](images/OrangePolentaCakeSliced.png)
+[![Orange Polenta Cake](images/OrangePolentaCakeSliced.png)](images/OrangePolentaCakeSliced.png)
 
 ## Notes
 
