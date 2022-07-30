@@ -3,6 +3,7 @@ title: "Parmesan & Herb Crackers"
 
 image: 
   path: /images/Crackers.jpg
+  thumbnail: /images/Crackers.jpg
   caption: "Crisp, cheesy, flavorful crackers"
 
 categories:

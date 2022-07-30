@@ -3,6 +3,7 @@ title: "Peanut Butter Gelato"
 
 image: 
   path: /images/PeanutButterIceCream.jpg
+  thumbnail: /images/PeanutButterIceCream.jpg
   caption: "Peanut Butter Gelato: the closest you can get to a spoon full of peanut butter without the real thing"
 
 categories:
