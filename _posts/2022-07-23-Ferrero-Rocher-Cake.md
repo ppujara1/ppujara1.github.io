@@ -2,8 +2,8 @@
 title: "Ferrero Rocher Cake"
 
 image: 
-  path: /images/FerreroRocherCake_Hero.png
-  thumbnail: /images/FerreroRocherCake_Hero.png
+  path: /images/FerreroRocherCake_Hero2.png
+  thumbnail: /images/FerreroRocherCake_Hero2.png
   caption: "An indulgent cake inspired by Ferrero Rocher Chocolates"
 
 categories:
