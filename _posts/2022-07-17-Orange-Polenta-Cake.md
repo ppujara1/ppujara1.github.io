@@ -3,6 +3,7 @@ title: "Orange Polenta Layer Cake"
 
 image: 
   path: /images/OrangePolentaCakeHero.png
+  thumbnail: /images/OrangePolentaCakeHero.png
   caption: "Bright citrus with sweet polenta, and a delightful crumb pairs perfectly with a glass of bubbly"
 
 categories:
