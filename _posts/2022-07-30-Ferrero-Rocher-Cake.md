@@ -34,7 +34,7 @@ There's no simpler way to describe this cake: a Ferrero Rocher in the form of a 
 
 This cake was inspired by my boyfriend's obsession over Ferrero Rocher and Nutella. As it turns out, the obsession over Ferrero Rocher runs deep within both our families, despite his being German and mine being Indian. With his birthday coming up, I needed inspiration for a showstopper cake, and so the Ferrero Rocher Cake was born. 
 
-The recipe for the sponges was only slightly adapted from Emiko Davies' [Hazelnut & Espresso Cake][1]. The sponge would be delicious on it's own without any pairings, and is perfect for a weeknight dessert or pairing with a cup of afternoon coffee or tea. To make this a layer cake, the filling choice was obvious, and the buttercream was adapted from the Orange German Buttercream in my previous post. 
+The recipe for the sponges was only slightly adapted from Emiko Davies' [Hazelnut & Espresso Cake][1]. The sponge would be delicious on it's own without any pairings, and is perfect for a weeknight dessert or with a cup of afternoon coffee or tea. To make this a layer cake, the filling choice was obvious, and the buttercream was adapted from the Orange German Buttercream in my previous post. 
 
 The main issues I ran into while baking the cake were the sweetness (see notes) and the temperature. For the sweetness, the addition of the coffee in the buttercream masked the sweetness more than I expected it to and threw the cake off balance. The soak ended up being key to help keep the sweetness balanced, and I increased the total sugar across the components to account for this. The temperature was a more difficult issue: it was a balmy day in the 90s F (low 30s C) and my buttercream was completely unstable, but it still tasted delicious. Be sure to follow the tips on handling unstable buttercream (though the internet as a lot more to say on the topic than I do here). 
 
@@ -119,7 +119,7 @@ The main issues I ran into while baking the cake were the sweetness (see notes) 
 ## Notes
 **Overall sweetness** This cake is not on the sweeter side, so make sure you taste as you go to adjust the sweetness to your liking. While I would not adjust the sugar in the cake too much (up to an additional 30 g of sugar if you'd like), you can play around with the sweetness of the soak, filling, and buttercream. Just remember that all the components should work together to create a balanced palate.  
 
-**German Pudding Packet** I use the Dr. Oetker pudding packets normally found in the grocery stores in Germany and across Europe. They make ~ 2 cups of pudding. You could easily use 2 cups of vanilla pudding from a homemade recipe or from a US packet. 
+**German Pudding Packet** I use the Dr. Oetker pudding packets normally found in the grocery stores in Germany and across Europe. They make ~ 2 cups of pudding. You could easily use 2 cups of chocolate pudding from a homemade recipe or from a US packet. 
 
 
 
