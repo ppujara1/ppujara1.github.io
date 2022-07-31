@@ -112,7 +112,8 @@ The main issues I ran into while baking the cake were the sweetness (see notes) 
 8. <span itemprop="recipeInstructions">Place the cake & stand in the center of a large baking tray. Using clean, frosting-free hands grab a handful of the hazelnuts. Open your palm so the hazelnuts are spread across your hand. Brace the bottom edge (pinky side) of your hand against. the cake and gently fan your hand up against the cake and press the hazelnuts onto the cake (almost as if you were gently patting the cake with hazelnuts). Continue using this motion to coat the bottom half of the cake. Start mixing in the chocolate sprinkles at this point and continue until the whole cake is coated. Collect any fallen hazelnuts and sprinkles from the tray to use them for more decorations</span>
 9. <span itemprop="recipeInstructions">If you have any more buttercream remaining, fill a piping bag to make 6 mounds around the edge of the cake and 1 in the center. Cover the top in sprinkles. Right before serving, place a chocolate on each mound</span>
 
-[![Ferrero Rocher Cake](/images/FerreroRocherCake_collage.jpeg)
+
+[![Ferrero Rocher Cake](/images/FerreroRocherCake_collage.jpeg)](/images/FerreroRocherCake_collage.jpeg)
 
 
 ## Notes
